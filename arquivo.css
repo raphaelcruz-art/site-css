@@ -1,0 +1,18 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: blue;
+}
+h1{
+    background-color: orange;
+}
+p{
+    background-color:red;
+}
+a{
+    border-radius: 10px;
+    background-color: white;
+}
+
